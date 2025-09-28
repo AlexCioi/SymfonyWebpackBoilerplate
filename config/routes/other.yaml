@@ -1,0 +1,4 @@
+
+app_import:
+    resource: "@AppBundle/Resources/config/routing.yaml"
+    prefix: /
